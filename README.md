@@ -8,7 +8,7 @@ Software Engineering Undergraduate | Full-Stack Developer in Training | Builder 
 
 ## 🚀 About Me  
 I’m an enthusiastic problem solver who loves turning ideas into scalable and meaningful products.  
-Currently reading for my **BSc (Hons) in Information Technology** at the **University of Moratuwa**, I enjoy exploring full-stack development, IoT integrations, and open-source software.  
+Currently reading for my **BSc (Hons) in Information Technology** at the **University of Moratuwa**, I enjoy exploring full-stack development, and open-source software.  
 
 💡 Passionate about digital transformation, data-driven systems, and building modern web and mobile experiences.  
 🌱 Currently learning: **SpringBoot**, **Java**, and **DevOps basics**  
