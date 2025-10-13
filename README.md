@@ -33,7 +33,7 @@ Currently reading for my **BSc (Hons) in Information Technology** at the **Unive
 
 ## 💼 Experience  
 
-**Associate Software Engineer — BuildUps Consultancy Pvt Ltd**  
+**Former ASE @BuildUps Consultancy Pvt Ltd**  
 *Dec 2024 – May 2025*  
 Contributed to full-stack web development and digital transformation projects, focusing on scalable design and data-driven features.
 
