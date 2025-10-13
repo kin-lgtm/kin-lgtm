@@ -11,7 +11,7 @@ I’m an enthusiastic problem solver who loves turning ideas into scalable and m
 Currently reading for my **BSc (Hons) in Information Technology** at the **University of Moratuwa**, I enjoy exploring full-stack development, IoT integrations, and open-source software.  
 
 💡 Passionate about digital transformation, data-driven systems, and building modern web and mobile experiences.  
-🌱 Currently learning: **TypeScript**, **Next.js**, and **DevOps basics**  
+🌱 Currently learning: **SpringBoot**, **Java**, and **DevOps basics**  
 💼 Currently working at: **BuildUps Consultancy (Associate Software Engineer)**  
 💬 Let’s talk about: software design, team leadership, and innovative project ideas  
 📫 Reach me at: **[navijaye@gmail.com](mailto:navijaye@gmail.com)**  
