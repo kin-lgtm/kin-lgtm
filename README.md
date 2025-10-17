@@ -12,7 +12,6 @@ Currently reading for my **BSc (Hons) in Information Technology** at the **Unive
 
 💡 Passionate about digital transformation, data-driven systems, and building modern web and mobile experiences.  
 🌱 Currently learning: **SpringBoot**, **Java**, and **DevOps basics**  
-💼 Currently working at: **BuildUps Consultancy (Associate Software Engineer)**  
 💬 Let’s talk about: software design, team leadership, and innovative project ideas  
 📫 Reach me at: **[navijaye@gmail.com](mailto:navijaye@gmail.com)**  
 🌍 Portfolio: [navindu-portfolio-lyart.vercel.app](https://navindu-portfolio-lyart.vercel.app/)  
@@ -22,11 +21,11 @@ Currently reading for my **BSc (Hons) in Information Technology** at the **Unive
 
 ## 🧰 Tech / Tools I Use  
 **Frontend:** React.js, Next.js, HTML, CSS, Tailwind CSS  
-**Backend:** ASP.NET Core, Laravel  
+**Backend:** ASP.NET Core, Laravel, Firebase  
 **Languages:** JavaScript, TypeScript, Java, Python, C, C++, C#  
 **Mobile:** Flutter  
 **Databases:** MySQL, MS SQL  
-**DevOps / Tools:** Git, GitHub, GitHub Actions, Jira, Postman, FileZilla, PuTTY  
+**DevOps / Tools:** Git, GitHub, GitHub Actions, Jira, Postman
 **Other:** Figma, Power BI, Photoshop, Canva  
 
 ---
