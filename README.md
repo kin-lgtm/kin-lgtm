@@ -34,10 +34,9 @@ Currently reading for my **BSc (Hons) in Information Technology** at the **Unive
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="MS SQL" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-
 </div>  
 
-###  Programming Languages  
+### 🧠 Programming Languages  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
@@ -48,7 +47,7 @@ Currently reading for my **BSc (Hons) in Information Technology** at the **Unive
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 </div>  
 
-### DevOps / Tools  
+### ⚙️ DevOps / Tools  
 <div align="center">  
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="50" /></a>  
@@ -59,14 +58,13 @@ Currently reading for my **BSc (Hons) in Information Technology** at the **Unive
 
 ---
 
-### Other Tools  
+### 🎨 Other Tools  
 <div align="center">  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="Power BI" height="50" /></a>  
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/512/power-bi.png" alt="Power BI" height="50" /></a>  
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.canva.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" height="50" /></a>   
-</div>   
-
+<a href="https://www.canva.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/canva.svg" alt="Canva" height="50" /></a>   
+</div>
 ---
 
 ## 💼 Experience  
