@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Navindu Jayalath  
+# 👋 Hi, I’m Navindu Prabath Jayalath  
 Software Engineering Undergraduate | Full-Stack Developer in Training | Builder of Digital Solutions  
 
 ![GitHub followers](https://img.shields.io/github/followers/kin-lgtm?label=Followers&style=social)
