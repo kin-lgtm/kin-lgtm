@@ -85,3 +85,6 @@ Contributed to full-stack web development and digital transformation projects, f
 ## 📊 GitHub Stats  
 ![Navindu’s GitHub stats](https://github-readme-stats.vercel.app/api?username=kin-lgtm&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kin-lgtm&layout=compact&theme=tokyonight)
+### 📈 Contribution Graph
+![Navindu’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kin-lgtm&theme=tokyo-night)
+
