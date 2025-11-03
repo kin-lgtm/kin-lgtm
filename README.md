@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Navindu Prabath Jayalath  
-Software Engineering Undergraduate | Full-Stack Developer | Builder of Digital Solutions  
+University of Moratuwa Undergraduate | Full-Stack Developer | Builder of Digital Solutions  
 
 ![GitHub followers](https://img.shields.io/github/followers/kin-lgtm?label=Followers&style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=kin-lgtm&color=blueviolet)
