@@ -69,6 +69,6 @@ Currently reading for my **BSc (Hons) in Information Technology** at the **Unive
 
 
 ## 📊 GitHub Stats  
-![Navindu’s GitHub stats](https://github-readme-stats.vercel.app/api?username=kin-lgtm&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kin-lgtm&layout=compact&theme=tokyonight)
+[Navindu’s GitHub stats](https://github-readme-stats.vercel.app/api?username=kin-lgtm&show_icons=true&theme=tokyonight)  
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kin-lgtm&layout=compact&theme=tokyonight)
 
